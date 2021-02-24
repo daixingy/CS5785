@@ -1,0 +1,13 @@
+---
+:id: 43315775
+:submitters:
+- :name: Xingyue (Ashley) Dai
+  :email: xd86@cornell.edu
+- :name: Wentao Xu
+  :email: wx225@cornell.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-09-10 17:35:43.165399000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-09-10 10:35:43.165399000 Z
+:status: processed
